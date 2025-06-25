@@ -1,0 +1,5 @@
+# Default constants with clause citations
+compressive_strength_increment: 100   # ACI 318-19 §19.2.3
+prestress_loss_factor: 0.60           # PTI DC10.5-15 §5.4
+deflection_multiplier: 2.0            # ACI 24.2.4.1
+minimum_average_prestress: 125        # PTI DC10.5 §6.2
